@@ -1,0 +1,8 @@
+{
+	Filter = {
+		Bundles = (
+			"com.atebits.Tweetie2",
+			"com.atebits.Tweetie2.t1twitter",
+		);
+	};
+}

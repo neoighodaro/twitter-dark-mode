@@ -1,0 +1,10 @@
+Package: com.tapsharp.twitterdarkmode
+Name: Twitter Dark Mode
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Twitter Dark Mode. Perfect for battery life on OLED displays like the iPhone X.
+Maintainer: Neo Ighodaro <neo@creativitykills.co>
+Author: Neo Ighodaro <neo@creativitykills.co>
+Section: Tweaks
+Icon: https://cydia.tapsharp.com/repo/icons/twitterdarkmode.png
